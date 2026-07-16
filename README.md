@@ -1,6 +1,6 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by G.Vignesh! 🍽️
+Welcome to the Food Delivery Website repository created by Manav Goyal! 🍽️
 
 ## Description
 
@@ -30,8 +30,5 @@ This project is a dynamic and user-friendly food delivery website developed usin
 - CSS
 - JavaScript
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vigneshgbe/food-delivery-website.git
+## Deployments 
+https://foodie-online-food-ordering-system.vercel.app/
